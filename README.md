@@ -4,8 +4,12 @@ A new Age Calculator project in flutter
 
 ## Screen shots
 
+<img src = 'https://user-images.githubusercontent.com/102577515/169782435-8858c2d3-5f9f-490f-898e-fd6690029623.png' width=200/>
+
 ## GIFS
 
+
+![agecalc](https://user-images.githubusercontent.com/102577515/169782622-da25a5f9-45e0-496a-93c3-a1e7c9371e43.gif)
 
 ## Getting Started
 
